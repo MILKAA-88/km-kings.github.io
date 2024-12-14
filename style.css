@@ -2,10 +2,12 @@ h1 {
   text-align: center;
   background-color: pink;
   border-radius: 5px;
-  
 }
 
 h2 {
   text-align: center;
   font-size: 22px;
+  bacground: black;
+  color: white;
+  border-radius: 22px
 }
